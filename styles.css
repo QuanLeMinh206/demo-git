@@ -5,4 +5,5 @@
 }
 .fixed {
     background: #000;
+    columns: 3;
 }
